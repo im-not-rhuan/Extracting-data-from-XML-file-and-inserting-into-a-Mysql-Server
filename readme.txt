@@ -11,3 +11,4 @@ Pontos de melhoria:
 -Separar melhor as etapas do processamento
 -Validação pós-processamento, para validar se os dados na database estão batendo com os do documento
 -Utilizar orientação a objetos para melhoria da estrutura
+-Aprimorar a função de pegar id por coluna para pegar qualquer coluna por coluna
