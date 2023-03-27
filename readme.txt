@@ -3,6 +3,7 @@ e então crio as tabelas que contém as informações de uma nota fiscal eletrô
 Via Python, é feita a conexão com um servidor local MySql, e então são criados os scripts de criação/inserção de dados nas tabelas. Após isso, o documento é percorrido
 e os dados são armazenados em listas, que são convertidas a tuplas, para então serem inseridos no banco.
 Na documentação, o modelo entidade-relacionamento mostra os relacionamentos das tabelas, e o dicionário de dados mostra os significados das colunas.
+Os primeiro código a ser executado é o extraction.ipynb, e então o challenge.ipynb
 
 Pontos de melhoria:
 
